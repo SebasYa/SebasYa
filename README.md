@@ -81,4 +81,4 @@ When I'm not coding, you can find me playing the guitar or learning best practic
 ## 📫 Get in Touch
 I'm currently looking for new opportunities as a Junior iOS Developer. Let's connect and discuss how I can contribute to your team!
 
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-Click%20Here-blue)](www.linkedin.com/in/sebastian-yanni)
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Click%20Here-blue)](https://www.linkedin.com/in/sebastian-yanni)
