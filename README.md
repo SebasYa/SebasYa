@@ -55,7 +55,7 @@ If you're interested in exploring more of my work, check out my [GitHub reposito
 ## 🤝 Let's Collaborate
 I'm always excited to collaborate on projects that involve innovative app development or push the boundaries of what mobile apps can do. If you have an idea or project in mind, feel free to reach out!
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 💬 [LinkedIn](https://www.linkedin.com/in/sebastian-yanni)
 
 ## 🤝 How to Contribute
 I'm open to contributions on my projects! If you'd like to contribute, please follow these steps:
