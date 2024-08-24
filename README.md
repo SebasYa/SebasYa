@@ -67,7 +67,7 @@ I'm open to contributions on my projects! If you'd like to contribute, please fo
 ## 🎓 Certifications & Education
 - **iOS App Development with Swift** - [View Certificate](https://www.udemy.com/certificate/UC-d2aa5c89-5e78-427e-bc40-da7f8b357a21/)
   
-- **Contabilidad** - UADE (Incomplete)
+- **Accounting** - UADE (Incomplete)
    - Studied accounting before discovering my passion for technology and software development.
 - **Career Transition to iOS Development**
    - Worked in the accounting field while self-learning iOS development and gaining hands-on experience in software systems.
