@@ -12,9 +12,9 @@ I'm Sebas Yanni, an Argentine 🇦🇷 and Italian citizen 🇮🇹. A Junior iO
 
 ## 🛠️ Skills & Technologies
 - **Languages:** Swift, Objective-C.
-- **Frameworks:** SwiftUI, UIKit, Swift Data, CoreML.
+- **Frameworks:** SwiftUI, UIKit, Combine, Swift Data, Chart, CoreML, and more...
 - **Tools:** Xcode, Git.
-- **Others:** RESTful APIs, JSON, Firebase, Unit Testing.
+- **Others:** RESTful APIs, JSON, Firebase, Unit Testing, and more..
 
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
