@@ -21,12 +21,14 @@ I'm Sebas Yanni, an Argentine 🇦🇷 and Italian citizen 🇮🇹. A Junior iO
 
 ## 🚀 Featured Projects
 
-### [iBills](https://github.com/yourrepo)
-An iOS app that simplifies invoice management by allowing users to easily manage and track invoices with advanced filtering and reporting capabilities.
+### [iBills](https://github.com/SebasYa/iBills)
+iBills is a comprehensive invoice management application designed for handling and tracking invoices with precision. The app allows users to manage and view invoices, including detailed information on VAT (IVA in Argentina), with an interactive graphical interface.
 
-![InvoiceApp Screenshot](https://link-to-your-image.com/invoiceapp.png)
+We are utilizing the beta version of iOS 18 and the new @Namespace var animation feature to enhance user experience and animation transitions. The latest Swift Data framework is also employed to manage invoices efficiently.
 
-**Technologies Used:** Swift, SwiftUI, New SwiftData, Charts
+<img src="https://github.com/SebasYa/iBills/blob/main/iBillsGif.gif" alt="App Demo" width="150"/>
+
+**Technologies Used:** Swift, SwiftUI, New SwiftData, Charts, iOS 18
 
 ---
 
