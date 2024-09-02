@@ -24,7 +24,7 @@ I'm Sebas Yanni, an Argentine 🇦🇷 and Italian citizen 🇮🇹. A Junior iO
 ### [iBills](https://github.com/SebasYa/iBills)
 iBills is a comprehensive invoice management application designed for handling and tracking invoices with precision. The app allows users to manage and view invoices, including detailed information on VAT (IVA in Argentina), with an interactive graphical interface.
 
-We are using the beta version of iOS 18 and the new "@Namespace  animation" feature to enhance user experience and animation transitions. The latest Swift Data framework is also employed to manage invoices efficiently.
+We are using the beta version of iOS 18. The latest Swift Data framework is also employed to manage invoices efficiently.
 
 <img src="https://github.com/SebasYa/iBills/blob/main/iBillsGif.gif" alt="App Demo" width="150"/>
 
