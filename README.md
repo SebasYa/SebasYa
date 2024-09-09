@@ -33,7 +33,7 @@ We are using the beta version of iOS 18. The latest Swift Data framework is also
 ---
 
 ### [Truco](https://github.com/SebasYa/Truco)
-Truco is a classic card game popular in Latin America, now brought to iOS with engaging UI and smooth gameplay.
+Truco is a scorekeeping application for the popular Argentinian card game, Truco. This app allows players to easily keep track of their scores during the game, providing an intuitive and user-friendly interface.
 
 <img src="https://github.com/SebasYa/Truco/blob/main/GifTruco%20.gif" alt="App Demo" width="150"/>
 
