@@ -4,7 +4,7 @@
 
 
 ## About Me
-I'm Sebas Yanni, an Argentine 🇦🇷 and Italian citizen 🇮🇹. A Junior iOS Developer with passion for build sleek and user-friendly apps. I specialize in Swift and have a deep interest in SwiftUI. My goal is to create apps that not only function perfectly but also offer a delightful user experience.
+I'm Sebas Yanni, an Argentine 🇦🇷 and Italian citizen 🇮🇹. A Junior iOS Developer with passion for build sleek and user-friendly apps. I specialize in Swift and have a deep interest in SwiftUI. My goal is to create apps that not only work perfectly but also offer a delightful user experience.
 
 - 🌱 I’m currently diving deep into **SwiftUI** and **UIKit**.
 - 💼 I'm seeking my first professional role as an iOS Developer.
