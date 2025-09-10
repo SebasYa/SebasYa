@@ -28,7 +28,7 @@ We are using the beta version of iOS 18. The latest Swift Data framework is also
 
 <img src="https://github.com/SebasYa/iBills/blob/main/iBillGif.gif" alt="App Demo" width="150"/>
 
-**Technologies Used:** Swift, SwiftUI, New SwiftData, Charts, iOS 18
+**Technologies Used:** SwiftUI, SwiftData, Charts, iOS 18
 
 ---
 
@@ -37,7 +37,7 @@ Truco is a scorekeeping application for the popular Argentinian card game, Truco
 
 <img src="https://github.com/SebasYa/Truco/blob/main/GifTruco%20.gif" alt="App Demo" width="150"/>
 
-**Technologies Used:** Swift, SwiftUI, SpriteKit
+**Technologies Used:** SwiftUI, SpriteKit
 
 ---
 
@@ -47,7 +47,7 @@ DollarBlue is an iOS app that provides real-time updates on the exchange rate of
 <img src="https://github.com/SebasYa/DollarBlue/blob/main/DollarBlueGif.gif" alt="App Demo" width="150"/> 
 <img src="https://github.com/SebasYa/DollarBlue/blob/main/WatchGit.gif" alt="App Demo" width="200"/>
 
-**Technologies Used:** Swift, SwiftUI, Combine, URLSession, JSON API
+**Technologies Used:** SwiftUI, Combine, URLSession, JSON API
 
 
 ## 📂 More Projects
