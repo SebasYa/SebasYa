@@ -12,7 +12,7 @@ I currently work in a small team with high ownership, and I also take on freelan
 
 ---
 
-## Core Skills (ATS-friendly keywords)
+## Tech Stack
 - **iOS:** Swift, SwiftUI, UIKit, MVVM, Navigation, State Management, Reusable Components, Accessibility basics  
 - **Networking:** REST APIs, JSON, URLSession, Auth flows, Error handling  
 - **Concurrency:** Swift Concurrency (async/await), GCD concepts  
