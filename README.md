@@ -1,86 +1,74 @@
-# 👋 Hi there, I'm Sebas Yanni!
-### 🌟 iOS Developer Focus On Creating Stunning Mobile Apps
+# 👋 Hi, I'm Sebastián Yanni
+### iOS Developer · Swift · SwiftUI · UIKit · AppKit · MVVM
 
-
-
-## About Me
-I'm Sebas Yanni, an Argentinian 🇦🇷 Junior iOS Developer with passion for build sleek and user-friendly apps. I specialize in Swift and have a deep interest in SwiftUI. My goal is to create apps that not only work perfectly but also offer a delightful user experience.
-
-- 🌱 I’m currently diving deep into **SwiftUI** and **UIKit**.
-- 💼 I'm seeking my first professional role as an iOS Developer.
-- 🎯 My ambition is to contribute to meaningful projects that make a difference.
-
-## 🛠️ Skills & Technologies
-- **Languages:** Swift, Objective-C.
-- **Frameworks:** SwiftUI, UIKit, Combine, Swift Data, Chart, CoreML, and more...
-- **Tools:** Xcode, Git.
-- **Others:** RESTful APIs, JSON, Firebase, Unit Testing, and more..
-
-![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
-
-## 🚀 Featured Projects
-
-### [iBills](https://github.com/SebasYa/iBills)
-iBills is a comprehensive invoice management application designed for handling and tracking invoices with precision. The app allows users to manage and view invoices, including detailed information on VAT (IVA in Argentina), with an interactive graphical interface.
-
-We are using the beta version of iOS 18. The latest Swift Data framework is also employed to manage invoices efficiently.
-
-<img src="https://github.com/SebasYa/iBills/blob/main/iBillGif.gif" alt="App Demo" width="150"/>
-
-**Technologies Used:** SwiftUI, SwiftData, Charts, iOS 18
+Buenos Aires, Argentina · [LinkedIn](https://www.linkedin.com/in/sebastian-yanni/) · [GitHub](https://github.com/SebasYa)
 
 ---
 
-### [Truco](https://github.com/SebasYa/Truco)
-Truco is a scorekeeping application for the popular Argentinian card game, Truco. This app allows players to easily keep track of their scores during the game, providing an intuitive and user-friendly interface.
+## About
+iOS Developer with professional experience building native apps with **Swift, SwiftUI, UIKit and AppKit**.  
+I ship features end-to-end: **MVVM architecture, REST API integration, authentication flows, reusable UI components, state management**, and UI aligned with **Apple Human Interface Guidelines**.  
+I currently work in a small team with high ownership, and I also take on freelance/contract iOS work.
 
-<img src="https://github.com/SebasYa/Truco/blob/main/GifTruco%20.gif" alt="App Demo" width="150"/>
+---
 
-**Technologies Used:** SwiftUI, SpriteKit
+## Core Skills (ATS-friendly keywords)
+- **iOS:** Swift, SwiftUI, UIKit, MVVM, Navigation, State Management, Reusable Components, Accessibility basics  
+- **Networking:** REST APIs, JSON, URLSession, Auth flows, Error handling  
+- **Concurrency:** Swift Concurrency (async/await), GCD concepts  
+- **Persistence:** SwiftData, Core Data  
+- **Apple frameworks:** WidgetKit, LocalAuthentication, Swift Charts, SpriteKit  
+- **Tools:** Xcode, Git, GitHub  
+- **Soft skills:** Ownership, Communication, Problem-solving, Attention to detail, Adaptability
+
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## Featured Work
+
+### Rioba (macOS) — SwiftUI + SwiftData
+Business desktop app focused on real workflows (clients, products, stock, orders, sales).  
+Highlights: **scalable models**, modern macOS navigation, commands/toolbars, and maintainable architecture.
+**Tech:** SwiftUI · AppKit · SwiftData · Swift Charts · LocalAuthentication
+
+---
+
+### [iBills](https://github.com/SebasYa/iBills)
+Invoice manager with biometric lock and reporting charts (VAT/IVA).  
+**Tech:** SwiftUI · SwiftData · Swift Charts · LocalAuthentication
+
+<img src="https://github.com/SebasYa/iBills/blob/main/iBillGif.gif" alt="App Demo" width="150"/>
 
 ---
 
 ### [DollarBlue](https://github.com/SebasYa/DollarBlue)
-DollarBlue is an iOS app that provides real-time updates on the exchange rate of the blue dollar in Argentina. The app offers a sleek and intuitive interface for users to quickly access the latest rates.
+Exchange rate tracker + currency converter with widgets and Apple Watch support.  
+**Tech:** SwiftUI · Combine · URLSession · JSON API · WidgetKit
 
 <img src="https://github.com/SebasYa/DollarBlue/blob/main/DollarBlueGif.gif" alt="App Demo" width="150"/> 
 <img src="https://github.com/SebasYa/DollarBlue/blob/main/WatchGit.gif" alt="App Demo" width="200"/>
 
-**Technologies Used:** SwiftUI, Combine, URLSession, JSON API
+---
 
+### [Truco](https://github.com/SebasYa/Truco)
+Scorekeeper for Truco with lightweight animations and clean UI flows.  
+**Tech:** SwiftUI · SpriteKit
 
-## 📂 More Projects
+<img src="https://github.com/SebasYa/Truco/blob/main/GifTruco%20.gif" alt="App Demo" width="150"/>
 
-If you're interested in exploring more of my work, check out my [GitHub repositories](https://github.com/SebasYa?tab=repositories). I have several other projects that showcase my skills in iOS development, including apps for various use cases and experiments with new technologies.
+---
 
-## 🤝 Let's Collaborate
-I'm always excited to collaborate on projects that involve innovative app development or push the boundaries of what mobile apps can do. If you have an idea or project in mind, feel free to reach out!
+## More Repositories
+Explore more projects and experiments here:  
+👉 https://github.com/SebasYa?tab=repositories
 
-- 💬 [LinkedIn](https://www.linkedin.com/in/sebastian-yanni)
+---
 
-## 🤝 How to Contribute
-I'm open to contributions on my projects! If you'd like to contribute, please follow these steps:
-1. Fork the repository.
-2. Create a new branch for your feature or fix.
-3. Submit a pull request with a detailed description of your changes.
-
-
-## 🎓 Certifications & Education
-- **iOS App Development with Swift** - [View Certificate](https://www.udemy.com/certificate/UC-d2aa5c89-5e78-427e-bc40-da7f8b357a21/)
-  
-- **Accounting** - UADE (Incomplete)
-   - Studied accounting before discovering my passion for technology and software development.
-- **Career Transition to iOS Development**
-   - Worked in the accounting field while self-learning iOS development and gaining hands-on experience in software systems.
-- **Systems Experience** 
-   - Managed and maintained IT systems in a small accounting firm, which included troubleshooting and supporting a network of 4 PCs.
-
-
-## 🎸 Fun Fact
-When I'm not coding, you can find me playing the guitar or learning best practices.
-
-## 📫 Get in Touch
-I'm currently looking for new opportunities as a Junior iOS Developer. Let's connect and discuss how I can contribute to your team!
-
-[![Contact Me](https://img.shields.io/badge/Contact%20Me-Click%20Here-blue)](https://www.linkedin.com/in/sebastian-yanni)
+## Contact
+If you’re hiring or want to collaborate on iOS/macOS work:
+- LinkedIn: https://www.linkedin.com/in/sebastian-yanni/
+- Email: sebasyanni@gmail.com
