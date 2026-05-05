@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Sebastián Yanni
 ### iOS Developer · Swift · SwiftUI · UIKit · AppKit · MVVM
 
-Buenos Aires, Argentina · [LinkedIn](https://www.linkedin.com/in/sebastian-yanni/) · [GitHub](https://github.com/SebasYa)
+Buenos Aires, Argentina · [LinkedIn](https://www.linkedin.com/in/sebastian-yanni/) · [Web](https://www.sebastianyanni.com)
 
 ---
 
